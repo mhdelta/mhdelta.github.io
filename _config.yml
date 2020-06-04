@@ -3,10 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software engineer working as a fullstack developer with experience in <b>.Net, .Net Core and Angular</b> frameworks
   <br><br>
-  I've been working with web applications since 2017 and I wanted to have a small portfolio with personal projects in which I apply a little bit of my knowledge.
-  These are not complex applications, just some random ideas that I develop when I have some free time. Feel free to contact me if 
-  you have any suggestion or comment :) 
-  <br><br>
+  I've been working with web applications since 2017 and I wanted to have a small portfolio with personal projects.
+  These are not complex applications, just some random ideas that I develop when I have some free time. :) 
+  <br>
   <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-henao-p%C3%A9rez-715601165/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
