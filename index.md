@@ -6,7 +6,7 @@
 
 [Beer catalog](https://beer-client-catalog.web.app/)
 
-<img src="images/beer_thumbnail.jpg?raw=true"/>
+<img src="images/beer_thumbnail.png?raw=true"/>
 
 ---
 
