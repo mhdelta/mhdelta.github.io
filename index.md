@@ -4,9 +4,9 @@
 
 ### Frontend, clients
 
-[Beer catalog](http://example.com/)
+[Beer catalog](https://beer-client-catalog.web.app/)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/beer_thumbnail.jpg?raw=true"/>
 
 ---
 
